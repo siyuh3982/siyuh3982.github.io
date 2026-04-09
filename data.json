@@ -1,0 +1,19 @@
+{
+  "name": "胡思雨",
+  "age": 20,
+  "major": "日语",
+  "school": "上海交通大学",
+  "bio": "日语专业学生，喜欢用语言表达情感与思想，探索更细腻的沟通方式。",
+  "profile": [
+    { "label": "姓名", "value": "胡思雨" },
+    { "label": "专业", "value": "日语" },
+    { "label": "学校", "value": "上海交通大学" },
+    { "label": "年龄", "value": "20 岁" }
+  ],
+  "hobbies": ["钢琴", "舞蹈", "跆拳道"],
+  "contacts": [
+    { "label": "邮箱", "value": "your-email@example.com" },
+    { "label": "GitHub", "value": "https://github.com/siyuh3982" }
+  ],
+  "footerText": "© 2026 胡思雨 · Personal Page"
+}
